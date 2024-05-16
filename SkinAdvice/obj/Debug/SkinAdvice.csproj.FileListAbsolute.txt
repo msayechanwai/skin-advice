@@ -1,0 +1,7 @@
+D:\3-4-24\SkinAdvice\SkinAdvice\bin\Debug\SkinAdvice.exe.config
+D:\3-4-24\SkinAdvice\SkinAdvice\bin\Debug\SkinAdvice.exe
+D:\3-4-24\SkinAdvice\SkinAdvice\bin\Debug\SkinAdvice.pdb
+D:\3-4-24\SkinAdvice\SkinAdvice\obj\Debug\SkinAdvice.csproj.AssemblyReference.cache
+D:\3-4-24\SkinAdvice\SkinAdvice\obj\Debug\SkinAdvice.csproj.CoreCompileInputs.cache
+D:\3-4-24\SkinAdvice\SkinAdvice\obj\Debug\SkinAdvice.exe
+D:\3-4-24\SkinAdvice\SkinAdvice\obj\Debug\SkinAdvice.pdb
